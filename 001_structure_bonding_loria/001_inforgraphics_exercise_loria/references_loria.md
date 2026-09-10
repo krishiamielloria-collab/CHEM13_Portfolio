@@ -1,0 +1,12 @@
+Al-Madhagi, H. (2025). From nature to nanotechnology: The bioactivities of mangiferin explored. Nanotechnology, Science and Applications, 18, 277–294. https://doi.org/10.2147/NSA.S525423
+Dai, Y., Huang, Q., Tan, M., Wang, Z., Jiang, C., Liu, Z., Zhang, S., & Song, S. (2026). Mangiferin in human disease: Multifaceted mechanisms and applications. International Journal of Molecular Medicine, 57(3), 65. https://doi.org/10.3892/ijmm.2026.5736 
+EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). (2015). Scientific opinion on the safety of caffeine. EFSA Journal, 13(5), 4102. https://doi.org/10.2903/j.efsa.2015.4102
+Imran, M., Arshad, M. S., Butt, M. S., Kwon, J. H., Arshad, M. U., & Sultan, M. T. (2017). Mangiferin: A natural miracle bioactive compound against lifestyle related disorders. Lipids in Health and Disease, 16, 84. https://doi.org/10.1186/s12944-017-0449-y
+Kumar, M., Saurabh, V., Tomar, M., Hasan, M., Changan, S., Sasi, M., Maheshwari, C., Prajapati, U., Singh, S., Prajapat, R. K., Dhumal, S., Punia, S., Amarowicz, R., & Mekhemar, M. (2021). Mango (Mangifera indica L.) leaves: Nutritional composition, phytochemical profile, and health-promoting bioactivities. Antioxidants, 10(2), 299. https://doi.org/10.3390/antiox10020299
+Martínez-Pinilla, E., Oñatibia-Astibia, A., & Franco, R. (2015). The relevance of theobromine for the beneficial effects of cocoa consumption. Frontiers in Pharmacology, 6, 30. https://doi.org/10.3389/fphar.2015.00030
+National Center for Biotechnology Information. (n.d.). D-(-)-Fructose. PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/5984
+OpenStax. (n.d.). Carbohydrates. In Chemistry 2e. https://openstax.org/books/chemistry-2e/pages/27-3-carbohydrates
+PubChemLite. (n.d.). Mangiferin (C19H18O11). University of Luxembourg. https://pubchemlite.lcsb.uni.lu/e/compound/5281647
+PubChemLite. (n.d.). Theobromine (C7H8N4O2). University of Luxembourg. https://pubchemlite.lcsb.uni.lu/e/compound/5429
+Smit, H. J. (2011). Theobromine and the pharmacology of cocoa. Handbook of Experimental Pharmacology, 200, 201–234. https://doi.org/10.1007/978-3-642-13443-2_7
+Vollhardt, K. P. C., & Schore, N. E. (n.d.). Names and structures of carbohydrates. Chemistry LibreTexts. https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/24%3A_Carbohydrates%3A_Polyfunctional_Compounds_in_Nature/24.01%3A_Names__and_Structures_of_Carbohydrates
